@@ -36,7 +36,7 @@ A simple calculator app built with **Python** using the `tkinter` library for th
 1. **Run the app:**
     After installation, navigate to the project folder and run the Python script:
     ```bash
-    python calculator_app.py
+    python calculator.py
     ```
 
 2. **Using the calculator:**
