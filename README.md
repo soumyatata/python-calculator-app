@@ -56,7 +56,7 @@ python calculator_app.py
 *To calculate 10% of 50, press `50`, `%,` and the result `0.5` will appear.
 
 **Project Structure**
-``bash
+```bash
 python-calculator-app/
 │
 ├── calculator_app.py          # Main application script
